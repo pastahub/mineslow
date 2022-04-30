@@ -1,7 +1,7 @@
 <template>
 <Head>
     <title>mineslow</title>
-    <link rel="icon" href="/assets/favicon.ico" />
+    <link rel="icon" href="./assets/favicon.ico" />
 </Head>
 <div class="center">
     <h1>mineslo<span class="gradient">w</span></h1>

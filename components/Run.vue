@@ -6,7 +6,7 @@
     <td>{{ formatTime(props.run.times.primary) }}</td>
     <td>{{ formatTime(props.run.times.realtime) }}</td>
     <td>{{ props.run.date.replace("-", "/").replace("-", "/") }}</td>
-    <td><a :href="props.run.weblink"><img src="/assets/favicon.ico"></a></td>
+    <td><a :href="props.run.weblink"><img src="~/assets/favicon.ico"></a></td>
 </tr>
 </template>
 
